@@ -121,7 +121,7 @@ hr {
   margin-bottom: 30px; }
 
 .container {
-  width: 500px;
+  width: 800px;
   margin: 0 auto; }
 
 @-webkit-keyframes fade-in {
@@ -142,6 +142,7 @@ hr {
 
   100% {
     opacity: 1; } }
+
 .game-container {
   margin-top: 40px;
   position: relative;
@@ -154,7 +155,7 @@ hr {
   -ms-user-select: none;
   -ms-touch-action: none;
   touch-action: none;
-  background: #bbada0;
+  background: #bd13d1;
   border-radius: 6px;
   width: 500px;
   height: 500px;
@@ -220,11 +221,11 @@ hr {
     clear: both; }
 
 .grid-cell {
-  width: 106.25px;
-  height: 106.25px;
+  width: 106.5px;
+  height: 106.5px;
   margin-right: 15px;
   float: left;
-  border-radius: 3px;
+  border-radius: 2px;
   background: rgba(238, 228, 218, 0.35); }
   .grid-cell:last-child {
     margin-right: 0; }
